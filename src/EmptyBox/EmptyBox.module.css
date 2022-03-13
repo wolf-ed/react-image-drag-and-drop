@@ -1,0 +1,17 @@
+div .empty,
+div .hovered {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  background-color: white;
+}
+
+.empty {
+  border: solid 3px black;
+}
+
+div .hovered {
+  background-color: #333;
+  border-color: white;
+  border-style: dashed;
+}

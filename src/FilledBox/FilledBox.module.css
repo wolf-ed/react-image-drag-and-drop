@@ -1,0 +1,14 @@
+div .fill,
+div .hold {
+  background-image: url('https://source.unsplash.com/random/150x150');
+  height: 145px;
+  width: 145px;
+}
+
+.fill {
+  cursor: pointer;
+}
+
+.hold {
+  border: solid 5px #ccc;
+}
